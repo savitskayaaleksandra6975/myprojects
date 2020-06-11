@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel-item img{
+    width: 100%;
+    max-height: 600px;
+}
+.content-img{
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    max-width: 75%;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h3, h2 {
+    font-weight: 700;
+
+}
